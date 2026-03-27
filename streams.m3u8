@@ -139,3 +139,6 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 
 #EXTINF:-1 tvg-id="elsiete.yt" tvg-name="El Siete TV" group-title="Argentina", El Siete TV
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="nasa.yt" tvg-name="NASA Live" group-title="Live", NASA Live
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
