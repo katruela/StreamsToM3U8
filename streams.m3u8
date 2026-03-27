@@ -136,4 +136,6 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="SavageKingdom.yt" tvg-name="Nat Geo Wild: Savage Kingdom" group-title="Documentaries", Nat Geo Wild: Savage Kingdom
+
+#EXTINF:-1 tvg-id="elsiete.yt" tvg-name="El Siete TV" group-title="Argentina", El Siete TV
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
