@@ -157,6 +157,9 @@ https://www.youtube.com/watch?v=Vh8xmLBJtR8
 NASA Live || nasa.yt || Live
 https://www.youtube.com/watch?v=21X5lGlDOfg
 
+NASA Public || nasa.m3u8 || Live
+https://ntv1.akamaized.net/hls/live/2014180/NASA-NTV-Public/master.m3u8
+
 
 
 
